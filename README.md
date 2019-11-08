@@ -1,4 +1,4 @@
-# Santander-Customer-Transaction-Prediction-Problem
+# Santander Customer Transaction Prediction Problem
 
 ## Organization Context:
 
